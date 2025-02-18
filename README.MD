@@ -1,3 +1,6 @@
+# Link for Part2 Github 
+## https://github.com/nanazo08/Word-Frequency-counter
+
 # Php_Practice_Sets_JUANZO
 
 ## Question 1: What is the output of **print_r($person);**?
